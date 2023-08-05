@@ -3,7 +3,7 @@
 <h2>I am self-taught</h2><h1>Frontend Developer</h1>
 <h3>Empowering my skill set :</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,angular,react,git,github"/>
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,sass,bootstrap,angular,react,git,github"/>
 <!--
 **grandeddie/grandeddie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
